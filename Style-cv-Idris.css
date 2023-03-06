@@ -1,0 +1,44 @@
+.idris-jpg{
+    object-position: 50% 50%;
+    float: right;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1{
+    position: relative;
+    right: 80px;
+    text-align: center;
+}
+body{
+    margin: 0;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    border: 0;
+}
+header{
+    background-color: rgb(127, 177, 177);
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+.colonnes{
+    display: flex;
+
+}
+
+.droite{
+    margin-left: 60px;
+}
+
+.espace{
+    margin-left: 50px;
+}
+
+.gauche{
+    padding: ;
+}
